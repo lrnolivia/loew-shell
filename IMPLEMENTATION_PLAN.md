@@ -1,5 +1,7 @@
 # loew-shell implementation plan
 
+> Universal process authority: read `lrnolivia/loew-runner@main/LOEW_CHAT_BIBLE.md` and `contracts/manifest.json` first. This file is a repository-specific overlay and must not fork the universal operating contract.
+
 ## 1. Purpose
 
 Build a small, deterministic execution transport that lets **normal ChatGPT** run shell commands on Lauren's Mac and Linux machines through the existing Composio -> GitHub connection.
